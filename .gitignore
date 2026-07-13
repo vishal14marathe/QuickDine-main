@@ -1,2 +1,12 @@
 node_modules
 .env
+
+
+
+# vishalmarathe308_db_user
+# c8F4LZHd0F6lJTQp
+
+
+mongodb+srv://vishalmarathe308_db_user:c8F4LZHd0F6lJTQp@cluster0.d9myd9z.mongodb.net/?appName=Cluster0
+
+mongodb+srv://vishalmarathe308_db_user:<db_password>@cluster0.d9myd9z.mongodb.net/?appName=Cluster0
